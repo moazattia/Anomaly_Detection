@@ -92,9 +92,3 @@ Experiment with different PCA components to optimize detection performance.
 Compare PCA-based anomaly detection with other methods (Autoencoders, Isolation Forest, One-Class SVM).
 
 Deploy the model for real-time fraud detection pipelines.
-
-Would you like me to also add:
-
-Installation & usage instructions (so someone can clone and run your notebook easily)?
-
-Or just keep it as a descriptive research-style README?
